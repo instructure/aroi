@@ -7,10 +7,10 @@ require 'aroi/version'
 Gem::Specification.new do |spec|
   spec.name          = "aroi"
   spec.version       = Aroi::VERSION
-  spec.authors       = ["Jason Madsen"]
-  spec.email         = ["knomedia@gmail.com"]
+  spec.authors       = ["Jason Madsen", "Instructure"]
+  spec.email         = ["simon@instructure.com"]
   spec.summary       = %q{ActiveRecord Object Instrumenter: Instrument the creation of ActiveRecord objects}
-  spec.homepage      = "https://github.com/knomedia/aroi"
+  spec.homepage      = "https://github.com/instructure/aroi"
   spec.license       = "MIT"
 
   spec.files         = Dir.glob("{lib,spec}/**/*") + %w(test.sh)

@@ -1,6 +1,6 @@
 # aroi
 
-[![Build Status](https://travis-ci.org/knomedia/aroi.svg)](https://travis-ci.org/knomedia/aroi)
+[![Build Status](https://travis-ci.org/instructure/aroi.svg)](https://travis-ci.org/instructure/aroi)
 
 (A)ctive (R)ecord (O)bject (I)nstrumenter
 
@@ -54,7 +54,7 @@ ActiveSupport::Notifications instead of logging.
 
 ## Contributing
 
-1. Fork it ( https://github.com/knomedia/aroi/fork )
+1. Fork it ( https://github.com/instructure/aroi/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
